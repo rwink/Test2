@@ -1,2 +1,2 @@
 Dit is Test 2!
-Regel toegevoegd in Feature 1.
+Regel gefixed!
